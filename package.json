@@ -23,7 +23,7 @@
     "url": "https://github.com/litecoin-project/litecore-message.git"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.22"
+    "litecore-lib": "emptyflash/faithcore-lib#5c1b03da6"
   },
   "devDependencies": {
     "litecore-build": "litecoin-project/litecore-build",
